@@ -1,0 +1,3 @@
+python-barcode==0.15.1
+dbr==9.6.20
+fpdf2==2.7.6
